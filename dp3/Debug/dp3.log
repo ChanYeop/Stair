@@ -1,0 +1,3 @@
+﻿  stair.cpp
+c:\users\cy960\source\repos\dp3\dp3\stair.cpp(26): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  dp3.vcxproj -> C:\Users\cy960\source\repos\dp3\Debug\dp3.exe
